@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/na-kd/integrations
+- https://n8n.io/integrations/na-kd/
+- https://composio.dev/toolkits/na-kd
+- https://monid.ai/tools/na-kd
+checked:
+- https://composio.dev/toolkits/na-kd
+- https://monid.ai/tools/na-kd
+- https://n8n.io/integrations/na-kd/
+- https://zapier.com/apps/na-kd/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
